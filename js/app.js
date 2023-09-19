@@ -8,8 +8,6 @@ btn.onclick=function(){
     let total=((count*percent)/100)+count
     let inmonth=total/time
     ay.innerHTML=inmonth
-
-
 }
 
  

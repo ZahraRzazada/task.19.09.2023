@@ -9,7 +9,7 @@
    display: flex;
   
 }
-.kredit button{
+.left button{
     padding: 15px 42px;
     margin: 12px 0px;
 }
@@ -20,17 +20,22 @@
 }
 .right{
     width: 50%;
-    padding: 55px 200px;
+    padding: 20px 200px;
 }
 .right p{
     margin: 28px 0px;
 
+    
+}
+.right button{
+    padding: 15px 44px;
+    margin: 43px 0px;
 }
 .right span{
     border: 1px solid black;
     background-color: white;
     color: black;
-    padding: 10px 20px;
+    padding: 10px 50px;
 }
 .kredit input{
   margin: 20px 0px;
